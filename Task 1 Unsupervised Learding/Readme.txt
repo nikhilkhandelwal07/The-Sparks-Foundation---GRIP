@@ -1,0 +1,2 @@
+This is the first task and it focuses in unsupervised learning. I had to train a Linear Regression to predict the score of a student based on the hours s/he studied
+The date for the task is given is http://bit.ly/w-data
