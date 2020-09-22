@@ -1,0 +1,1 @@
+In this task, I had t explore the iris dataset and train decision tree classifier. Along with training the classifier I had to visualise it too which I did using plot_tree() method
